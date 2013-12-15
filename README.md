@@ -1,2 +1,4 @@
-telomere_fusion_anlayzer
+Telomere fusion analyzer
 ========================
+
+Under construction
