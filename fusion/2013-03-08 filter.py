@@ -5,10 +5,10 @@ import os
 
 # Parameter 1: target, either "all" or in the form of "BRCA00XX"
 # Parameter 2: option, either "stat" or "fastq"
-# E.g. pyton filter.py BRCA0001 stat
-#      pyton filter.py BRCA0001 fastq
-#      pyton filter.py all stat
-#      pyton filter.py all fastq
+# E.g. python filter.py BRCA0001 stat
+#      python filter.py BRCA0001 fastq
+#      python filter.py all stat
+#      python filter.py all fastq
 
 def FileNameList():
     filename_list = []
